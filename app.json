@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "Kantin Pintar UMM",
+    "slug": "kantin-pintar-umm",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "kantinpintarumm",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"

@@ -32,6 +32,54 @@ export const styles = StyleSheet.create({
     marginBottom: 10,
     color: '#1F2937',
   },
+  recommendationStatus: {
+    marginVertical: 24,
+  },
+  recommendationError: {
+    marginHorizontal: 16,
+    marginBottom: 12,
+    padding: 12,
+    backgroundColor: '#FEF2F2',
+    borderRadius: 8,
+  },
+  recommendationErrorText: {
+    color: '#B91C1C',
+    fontSize: 13,
+  },
+  retryText: {
+    color: '#00B14F',
+    fontWeight: '600',
+    marginTop: 8,
+  },
+  recommendationList: {
+    paddingHorizontal: 16,
+    paddingBottom: 4,
+  },
+  recommendationCard: {
+    width: 150,
+    marginRight: 12,
+    padding: 10,
+    backgroundColor: '#FFFFFF',
+    borderRadius: 12,
+    elevation: 2,
+  },
+  recommendationImage: {
+    width: '100%',
+    height: 96,
+    borderRadius: 8,
+    backgroundColor: '#E5E7EB',
+  },
+  recommendationName: {
+    marginTop: 8,
+    color: '#1F2937',
+    fontSize: 13,
+    fontWeight: '600',
+  },
+  recommendationDetails: {
+    marginTop: 4,
+    color: '#6B7280',
+    fontSize: 11,
+  },
   card: {
     backgroundColor: '#FFFFFF',
     borderRadius: 12,
